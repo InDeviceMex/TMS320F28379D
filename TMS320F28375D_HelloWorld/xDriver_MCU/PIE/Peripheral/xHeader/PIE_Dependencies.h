@@ -1,0 +1,15 @@
+/*
+ * PIE_Dependencies.h
+ *
+ *  Created on: 11 mar. 2021
+ *      Author: vyldram
+ */
+
+#ifndef XDRIVER_MCU_PIE_PERIPHERAL_XHEADER_PIE_DEPENDENCIES_H_
+#define XDRIVER_MCU_PIE_PERIPHERAL_XHEADER_PIE_DEPENDENCIES_H_
+
+
+
+
+
+#endif /* XDRIVER_MCU_PIE_PERIPHERAL_XHEADER_PIE_DEPENDENCIES_H_ */
